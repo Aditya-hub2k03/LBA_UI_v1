@@ -1,1 +1,1 @@
-<p>Next Projecty</p>
+<p>Next Project</p>
